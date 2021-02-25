@@ -1,5 +1,5 @@
 <div align="center">
 	<div>
-		<img width="500" src="media/awesome-databrics-logo.png" alt="Awesome Node.js">
+		<img width="500" src="media/awesome-databricks-logo.pngg" alt="Awesome Node.js">
 	</div>
 </div>
